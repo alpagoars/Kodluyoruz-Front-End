@@ -1,2 +1,2 @@
 # Kodluyoruz-Front-End
--- Kodluyoruzla birlikte yaptığım çalışmalarım
+-Kodluyoruzla birlikte yaptığım çalışmalarım
